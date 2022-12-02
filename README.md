@@ -5,6 +5,7 @@ A simple personal reference for Markdown language, examples from [markdown guide
 - [Headings](#headings)
 - [Bold](#bold)
 - [Italic](#italic)
+- [Strikethrough](#strikethrough)
 - [Blockquote](#blockquote)
 - [Ordered list](#ordered-list)
 - [Unordered list](#unordered-list)
@@ -33,6 +34,10 @@ Bold text **Bold**.
 # Italic
 
 Italic text _italic text_.
+
+# Strikethrough
+
+This is ~~not~~ what I want!
 
 # Blockquote
 
