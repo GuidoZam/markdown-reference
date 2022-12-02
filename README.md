@@ -16,6 +16,7 @@ A simple personal reference for Markdown language, examples from [markdown guide
 - [Table](#table)
 - [Fenced Code Block](#fenced-code-block)
 - [Footnote](#footnote)
+- [Task List](#task-list)
 
 
 # Headings
@@ -103,3 +104,10 @@ Here's a simple footnote [^1] and here's a longer one.[^bignote]
     `{ my code }`
 
     Add as many paragraphs as you like.
+
+
+# Task list
+
+- [x] Do stuff
+- [ ] Study
+- [x] Shine
