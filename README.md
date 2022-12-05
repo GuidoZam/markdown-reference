@@ -94,7 +94,7 @@ To add an image use the same format as link with an exclamation mark ![Like this
 
 # Footnote
 
-Here's a simple footnote [^1] and here's a longer one.[^bignote]
+Here's a simple footnote [^1] and here's a longer one[^bignote]. You can find the notes at the bottom of the page.
 
 [^1]: This is the first footnote.
 
@@ -116,7 +116,7 @@ Here's a simple footnote [^1] and here's a longer one.[^bignote]
 # Colors
 
 It is possible to have a color preview using the free service from [https://placeholder.com/](https://placeholder.com/).
-Examples:
+Examples (not working on GitHub currently):
 
 ![#00dbb2](https://via.placeholder.com/15/00dbb2/000000?text=+) `#00DBB2`
 
