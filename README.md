@@ -17,6 +17,7 @@ A simple personal reference for Markdown language, examples from [markdown guide
 - [Fenced Code Block](#fenced-code-block)
 - [Footnote](#footnote)
 - [Task List](#task-list)
+- [Colors](#colors)
 
 
 # Headings
@@ -111,3 +112,13 @@ Here's a simple footnote [^1] and here's a longer one.[^bignote]
 - [x] Do stuff
 - [ ] Study
 - [x] Shine
+
+# Colors
+
+It is possible to have a color preview using the free service from [https://placeholder.com/](https://placeholder.com/).
+Examples:
+
+![#00dbb2](https://via.placeholder.com/15/00dbb2/000000?text=+) `#00DBB2`
+
+![#69adff](https://via.placeholder.com/15/69adff/000000?text=+) `#69ADFF`
+
